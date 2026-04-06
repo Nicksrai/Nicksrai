@@ -1,69 +1,82 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nikita%20Rai&fontAlign=50&fontAlignY=35&color=0:0b132b,50:1c2541,100:3a506b&fontColor=ffffff&fontSize=48&desc=Full-Stack%20Developer&descAlign=50&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&text=Nikita%20Rai&fontAlign=50&fontAlignY=36&color=0:0d1b2a,50:1b263b,100:415a77&fontColor=ffffff&fontSize=42&desc=Full-Stack%20Developer&descAlign=50&descAlignY=60" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=920&lines=Building+practical+software+solutions;Python+%7C+React+%7C+FastAPI+%7C+Node.js;Backend+%7C+Frontend+%7C+APIs+%7C+Dashboards+%7C+Automation" alt="typing animation" />
-</div>
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <img src="https://github.com/Nicksrai.png" width="100%" alt="Nikita profile" />
+      <h2>Nikita Rai</h2>
+      <p><b>Nicksrai</b></p>
+      <p>Full-Stack Developer</p>
+      <p>Python | React | FastAPI</p>
+      <p>Node.js | PostgreSQL</p>
+      <hr/>
+      <p>📍 India</p>
+      <p>🕒 IST (UTC +05:30)</p>
+      <p>📧 nikitarai957@gmail.com</p>
+      <p>🔗 <a href="https://www.linkedin.com/in/nikita-rai-038a8a329/">LinkedIn</a></p>
+      <p>📸 <a href="https://www.instagram.com/">Instagram</a></p>
+      <p>💻 <a href="https://github.com/Nicksrai">GitHub</a></p>
+    </td>
+    <td width="70%" valign="top">
+      <h1>Hi there, I'm Nikita 👋</h1>
+      <p><b>Based in India</b> | Passionate about building practical software solutions</p>
+      <p><i>Backend | Frontend | APIs | Dashboard Development | Automation</i></p>
+      <p>
+        Welcome to my GitHub profile. I enjoy building clean, reliable, and scalable applications.
+        I work across frontend and backend, and I like solving business workflow problems with robust code.
+      </p>
 
-<div align="center">
-  <a href="https://github.com/Nicksrai">
-    <img src="https://img.shields.io/badge/GitHub-Nicksrai-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikita-rai-038a8a329/">
-    <img src="https://img.shields.io/badge/LinkedIn-Nikita%20Rai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nikitarai957@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Nicksrai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</div>
+      <hr/>
+
+      <h2>🛠️ Technologies & Tools</h2>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,django,fastapi,mongodb,postgres,mysql,git,vscode,docker&perline=15" />
+      </p>
+
+      <hr/>
+
+      <h2>✨ Let's Connect!</h2>
+      <p>I'm always open to collaboration on interesting products and real-world software projects.</p>
+      <p>
+        <a href="https://www.linkedin.com/in/nikita-rai-038a8a329/">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:nikitarai957@gmail.com">
+          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+        </a>
+      </p>
+
+      <hr/>
+
+      <h2>🎉 Fun Fact</h2>
+      <p>I like automating repetitive workflows to save time and reduce human error.</p>
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Nikita Rai"
+        self.role = "Full-Stack Developer"
+        self.stack = ["Python", "FastAPI", "React", "Node.js", "PostgreSQL"]
+
+    def say_hi(self):
+        return "Let's build something meaningful."
+```
+    </td>
+  </tr>
+</table>
 
 ---
 
-## About Me
-- Full-stack developer focused on scalable backend systems and clean UI.
-- Building business workflow products with strong API design and automation.
-- Based in India (IST, UTC +05:30).
-
----
-
-## Tech Stack and Tools
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend and Database
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Dev Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nicksrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicksrai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicksrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicksrai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -76,36 +89,17 @@
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Nicksrai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
----
-
-## What I'm Up To
-- Building operations-focused applications for real business workflows.
-- Improving backend architecture, API performance, and data correctness.
-- Open to collaboration on full-stack and automation projects.
-
----
-
-## Let's Connect
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/nikita-rai-038a8a329/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nikitarai957@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nikitarai957%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Nicksrai&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0b132b,50:1c2541,100:3a506b" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1b2a,50:1b263b,100:415a77" />
 </div>
 
