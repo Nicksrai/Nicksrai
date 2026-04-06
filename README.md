@@ -62,10 +62,18 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer who enjoys building cle
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nicksrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nicksrai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nicksrai&theme=tokyonight&hide_border=true" />
   <br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicksrai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicksrai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nicksrai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 </div>
 
 ---
