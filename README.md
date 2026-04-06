@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=165&text=Nikita%20Rai&fontAlign=50&fontAlignY=36&color=0:0d1b2a,50:1b263b,100:415a77&fontColor=ffffff&fontSize=42&desc=Full-Stack%20Developer&descAlign=50&descAlignY=60" />
 </div>
 
-<table>
+<table bgcolor="#0d1117">
   <tr>
-    <td width="30%" valign="top">
+    <td width="30%" valign="top" bgcolor="#111827">
       <img src="https://github.com/Nicksrai.png" width="100%" alt="Nikita profile" />
       <h2>Nikita Rai</h2>
       <p><b>Nicksrai</b></p>
@@ -19,7 +19,7 @@
       <p>📸 <a href="https://www.instagram.com/">Instagram</a></p>
       <p>💻 <a href="https://github.com/Nicksrai">GitHub</a></p>
     </td>
-    <td width="70%" valign="top">
+    <td width="70%" valign="top" bgcolor="#0f172a">
       <h1>Hi there, I'm Nikita 👋</h1>
       <p><b>Based in India</b> | Passionate about building practical software solutions</p>
       <p><i>Backend | Frontend | APIs | Dashboard Development | Automation</i></p>
@@ -55,17 +55,14 @@
 
       <h2>🎉 Fun Fact</h2>
       <p>I like automating repetitive workflows to save time and reduce human error.</p>
-
-```python
-class SoftwareEngineer:
+      <pre><code>class SoftwareEngineer:
     def __init__(self):
         self.name = "Nikita Rai"
         self.role = "Full-Stack Developer"
         self.stack = ["Python", "FastAPI", "React", "Node.js", "PostgreSQL"]
 
     def say_hi(self):
-        return "Let's build something meaningful."
-```
+        return "Let's build something meaningful."</code></pre>
     </td>
   </tr>
 </table>
@@ -102,4 +99,3 @@ class SoftwareEngineer:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0d1b2a,50:1b263b,100:415a77" />
 </div>
-
