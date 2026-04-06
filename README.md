@@ -68,13 +68,7 @@ Welcome to my GitHub profile! I'm a Full-Stack Developer who enjoys building cle
   <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicksrai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nicksrai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</div>
 
 ---
 
