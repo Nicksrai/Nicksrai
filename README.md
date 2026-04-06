@@ -1,123 +1,24 @@
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Nikita%20Rai%20%7C%20GitHub%20Profile&fontAlign=50&fontAlignY=35&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&fontSize=38&desc=Full-Stack%20Developer&descAlign=50&descAlignY=58" />
+<h1 align="center">Hi 👋, I'm Nikita Rai</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicksrai&label=Profile%20views&color=0e75b6&style=flat" alt="nicksrai" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicksrai" alt="nicksrai" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://portfolio-nikita-sigma.vercel.app/](https://portfolio-nikita-sigma.vercel.app/)
+
+- 📫 How to reach me **nikitarai957@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/412308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="412308" height="30" width="40" /></a>
 </p>
 
-<table bgcolor="#0d1117">
-  <tr>
-    <td width="34%" valign="top" bgcolor="#111827">
-      <img src="https://github.com/Nicksrai.png" alt="profile" width="100%" />
-      <h2>Nikita</h2>
-      <p><b>Full-Stack Developer</b> | Python | React</p>
-      <p>Location: India</p>
-      <p>Timezone: IST (UTC +05:30)</p>
-      <p>Email: nikitarai957@gmail.com</p>
-      <p>LinkedIn: https://www.linkedin.com/in/nikita-rai-038a8a329/</p>
-    </td>
-    <td width="66%" valign="top" bgcolor="#0f172a">
-      <h1>Hi there, I'm Nikita</h1>
-      <p>
-        Building practical software solutions<br/>
-        Passionate about full-stack product development
-      </p>
-      <p><i>Backend | Frontend | APIs | Dashboards | Automation</i></p>
-      <p>
-        Welcome to my GitHub profile. I enjoy turning business workflows into clean, scalable applications.
-        I work across backend and frontend, and I love improving performance, developer experience, and UI clarity.
-      </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-      <hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicksrai&show_icons=true&locale=en&layout=compact" alt="nicksrai" /></p>
 
-      <h2><img src="https://img.shields.io/badge/Technologies%20%26%20Tools-0f172a?style=for-the-badge&logo=github&logoColor=white" /></h2>
-      <p>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,python,django,fastapi,mongodb,postgres,mysql,git,vscode,docker" />
-      </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicksrai&show_icons=true&locale=en" alt="nicksrai" /></p>
 
-      <hr/>
-
-      <h2><img src="https://img.shields.io/badge/Let's%20Connect-111827?style=for-the-badge&logo=wechat&logoColor=white" /></h2>
-      <p>I'm open to collaboration, product ideas, and engineering discussions.</p>
-      <p>
-        <a href="https://www.linkedin.com/in/nikita-rai-038a8a329/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:nikitarai957@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://www.instagram.com/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-        </a>
-      </p>
-
-      <hr/>
-
-      <h2><img src="https://img.shields.io/badge/Fun%20Fact-1e293b?style=for-the-badge&logo=dependabot&logoColor=white" /></h2>
-      <p>I automate repetitive work to save time and improve quality.</p>
-
-      <pre>
-#!/usr/bin/python
-# coding: utf-8
-
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Nikita"
-        self.role = "Full-Stack Developer"
-        self.language_spoken = ["Python", "JavaScript", "SQL"]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile. Let's build something great.")
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<hr/>
-
-<h2><img src="https://img.shields.io/badge/Live%20GitHub%20Data-0f172a?style=for-the-badge&logo=github&logoColor=white" /></h2>
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nicksrai&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicksrai&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Nicksrai&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicksrai&theme=github-compact&hide_border=true&area=true" />
-</p>
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nicksrai&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicksrai&theme=github_dark" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nicksrai&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nicksrai&theme=github_dark" />
-</p>
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nicksrai&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nicksrai&theme=github_dark&utcOffset=5.5" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Nicksrai&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<hr/>
-
-<h2>Optional Add-ons</h2>
-<p>
-1. Recent activity: <code>https://github.com/Nicksrai/Nicksrai/blob/main/README.md</code> with <code>github-readme-activity</code> GitHub Action.<br/>
-2. Contribution snake animation: generate with <code>Platane/snk</code> action and embed output SVG.<br/>
-3. WakaTime coding stats: add if you use WakaTime.
-</p>
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f2027,50:203a43,100:2c5364" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicksrai&" alt="nicksrai" /></p>
